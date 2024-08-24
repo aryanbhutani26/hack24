@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "^5.3.3"
+=======
+    "express": "^4.19.2",
+    "i": "^0.3.7"
+>>>>>>> b7e731d0ae56977595c4d241bcdb8ca87c7098c2
   }
 }
